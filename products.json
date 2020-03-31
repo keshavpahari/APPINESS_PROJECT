@@ -1,0 +1,31 @@
+[{
+    "product_id" : 1,
+    "product_name" : "Dettol",
+    "category_id" : 1
+},
+{
+    "product_id" : 2,
+    "product_name" : "Godrej",
+    "category_id" : 1
+},
+{
+    "product_id" : 3,
+    "product_name" : "Patanjali",
+    "category_id" : 1
+},
+{
+    "product_id" : 4,
+    "product_name" : "Dove",
+    "category_id" : 2
+},
+{
+    "product_id" : 5,
+    "product_name" : "Nivea",
+    "category_id" : 2
+},
+{
+    "product_id" : 6,
+    "product_name" : "Cintol",
+    "category_id" : 2
+}
+]
